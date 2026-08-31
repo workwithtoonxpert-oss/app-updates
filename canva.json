@@ -1,10 +1,9 @@
 {
   "versionCode": 99999999,
   "title": "🚀 New Update",
-  "appName": "Proton VPN",
-  "versionName": "Version 5.25.0",
+  "appName": "Canva",
+  "versionName": "Version Latest",
   "message": "Click the Update button to download the latest version.",
-  "logoUrl": "https://raw.githubusercontent.com/workwithtoonxpert-oss/app-updates/main/image.png",
   "downloadUrl": "https://t.me/ApexModsOfficiaI",
-  "forceUpdate": false
+  "forceUpdate": true
 }
