@@ -5,5 +5,5 @@
   "versionName": "Version Latest",
   "message": "Click the Update button to download the latest version.",
   "downloadUrl": "https://t.me/ApexModsOfficiaI",
-  "forceUpdate": true
+  "forceUpdate": false
 }
